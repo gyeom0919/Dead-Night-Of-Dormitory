@@ -9,8 +9,9 @@
 
 |                 [정현일](https://github.com/Junghyonil123)                 |                [이겸](https://github.com/gyeom0919)                 |               [정민](https://github.com/123123445)               |               강민석               |
 | :-----------------------------------------------------------------------: | :-----------------------------------------------------------------------: | :-----------------------------------------------------------------------: | :-----------------------------------------------------------------------: |
-| <img src='https://user-images.githubusercontent.com/90584642/191173308-ddf341bc-fcca-4e43-b7f6-fa7e26338a3f.jpg' width=120> | <img src='이겸' width=120> | <img src='정민' width=120> | <img src='강민석' width=120> | 
+| <img src='https://user-images.githubusercontent.com/90584642/191173308-ddf341bc-fcca-4e43-b7f6-fa7e26338a3f.jpg' width=120> | <img src='https://user-images.githubusercontent.com/95688320/197733401-c6a2df1f-3251-4360-b797-75a5790ff477.png' width=120> | <img src='정민' width=120> | <img src='강민석' width=120> | 
 | 게임 개발자 🎮 | 맵 개발자 🗺️ | 게임 개발자 🎮 | 3D 디자인 🖌️ |
+  
 
 
 </div>
